@@ -1,3 +1,4 @@
 This file is added by user1.
 Now it is modified by user2.
+Now it is modified by user1.
 Modified by user2 again.

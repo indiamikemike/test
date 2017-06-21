@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is added by user2.
+=======
+This file is added by user1.
+>>>>>>> refs/remotes/origin/master
