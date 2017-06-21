@@ -1,1 +1,2 @@
 This file is added by user1.
+Now it is modified by user2.
